@@ -1,0 +1,23 @@
+.DS_Store
+.env.local
+.env.*.local
+.idea/
+.ignore
+.vscode
+build/
+coverage/
+*.csv
+lerna-*.log
+node_modules
+npm-*.log
+yarn-*.log
+*.tgz
+packages/**/*.tgz
+packages/**/dist
+*.min.*
+junit.xml
+Untitled-1
+
+# Ignore any yarn.lock files accidentally added to subpackages
+yarn.lock
+!/yarn.lock
