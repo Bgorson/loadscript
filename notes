@@ -1,0 +1,35 @@
+PER ROOT RUN:
+
+3 Batch Runs
+---------
+11 look ups
+2 calculates
+4 emails
+
+Each root run also:
+Makes a Data Table
+3 Filters
+1 Get time
+1 Add Row
+1 Convert Table to text
+1 Replace text on a Table
+-------------------------
+Total Action per run: 24
+
+
+If we run 100 of These:
+300 Batches
+1100 Look ups
+200 calculates
+400 emails
+
+300 Filters
+100 Get Times
+100 Add Rows
+100 Convert Tables to text
+100 Replace texts
+
+2400 total actions in a 'full test'
+
+
+33-40 seconds= normal single run
